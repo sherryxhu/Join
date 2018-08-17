@@ -1,6 +1,6 @@
 # Join-Us
 
-[Website Link](https://node-and-mysql2-sherry8838.c9users.io/) (Can only be viewed when Cloud9 is running)
+[Website Link](https://node-and-mysql2-sherry8838.c9users.io/) (Will lead to an error page when Cloud9 is not running)
 
 Simple website that collects emails for a listserve. Uses SQL, Node, CSS, and HTML. 
 
